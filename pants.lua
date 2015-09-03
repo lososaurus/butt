@@ -1,1 +1,1 @@
-print( "How I git?" )
+print( "Test local?" )
