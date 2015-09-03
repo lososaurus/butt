@@ -1,1 +1,1 @@
-print( "pants" )
+print( "How I git?" )
